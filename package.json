@@ -57,7 +57,7 @@
     "web3-eth": "^1.8.0",
     "web3-eth-abi": "^1.8.0",
     "web3-eth-contract": "^1.8.1",
-    "web3-utils": "^1.8.2",
+    "web3-utils": "^4.2.1",
     "winston": "^3.8.2",
     "winston-transport-sentry-node": "^2.7.0"
   },
